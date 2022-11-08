@@ -15,4 +15,11 @@ router.get('/caneca', MugController.index);
 router.get('/camisa', ShirtController.index);
 router.get('/meia', SockController.index);
 
+router.get('/:id', HomeController.show);
+router.get('/bone/:id', CapController.show);
+router.get('/moletom/:id', CoatController.show);
+router.get('/caneca/:id', MugController.show);
+router.get('/camisa/:id', ShirtController.show);
+router.get('/meia/:id', SockController.show);
+
 module.exports = router;

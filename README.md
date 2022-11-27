@@ -1,6 +1,9 @@
-**Link dos vídeos na versão desktop e mobile** 
+**Atenção**
 
-https://drive.google.com/file/d/14Br2IhMEUMgg_vlpRk-D5Ei6Pk1JT2zV/view?usp=sharing 
 
-https://drive.google.com/file/d/1SdngxKV6n5_mt6p2iJBlRNAUs6SkINhz/view?usp=sharing
+ESTA APLICAÇÃO FOI COMPLETAMENTE DOCKERIZADA - TANTO O FRONT, QUANTO O BACK ESTÃO NO MESMO REPOSITÓRIO -
 
+
+https://github.com/CostaMateus7/lojadoprogramador 
+
+**ESTE LINK TEM AS INSTRUÇÕES DE USO NO README**
